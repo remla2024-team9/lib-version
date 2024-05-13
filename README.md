@@ -1,2 +1,2 @@
-# lib-version
-version-aware library for app-service dependencies
+## ReadMe
+Use python v=3.10, run "pip install -r requirements.txt"
